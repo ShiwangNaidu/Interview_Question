@@ -156,10 +156,6 @@ or B4 -> B6 then B6 -> B5) to reach destination
 point from starting point shown in below diagram. 
 Each block i is given an id Bi in the diagram.
 
-![SpaceByBlock](https://user-images.githubusercontent.com/59438970/162400165-31311509-e688-4195-87df-236ebf5bed26.jpg)
-
-![SpaceByBlock](https://user-images.githubusercontent.com/59438970/162400454-2135fc42-3011-45b4-997e-a507eae81eb3.jpg)
-
 
 ```
 ![SpaceByBlock](https://user-images.githubusercontent.com/59438970/162400479-7795db52-339c-4592-aec9-7bff05546e1c.jpg)
