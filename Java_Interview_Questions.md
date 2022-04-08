@@ -39,6 +39,7 @@ Input:  arr[] = {10, 5, 6, 3, 2, 20, 100, 80}
 ```
 
 ```js
+Example of Wave Pattern only for reference.
 10		6		20		100
 	5		2		3			80
 ```
